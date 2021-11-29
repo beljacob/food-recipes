@@ -4,7 +4,9 @@ Here you can search your favourite meals and filter them by category.
 
 When clicking on a meal, a modal will pop up with all the detailed info about that meal.
 
-The recipes are fetched from [TheMealDB](https://www.themealdb.com/).
+The recipes are fetched from [TheMealDB](https://www.themealdb.com/) API.
+
+[View Project](https://phils-recipes.netlify.app/)
 
 ---
 
