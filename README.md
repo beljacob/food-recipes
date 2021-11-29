@@ -6,8 +6,6 @@ When clicking on a meal, a modal will pop up with all the detailed info about th
 
 The recipes are fetched from [TheMealDB](https://www.themealdb.com/) API.
 
-[View Project](https://phils-recipes.netlify.app/)
-
 ---
 
 The technologies used in this project are:
